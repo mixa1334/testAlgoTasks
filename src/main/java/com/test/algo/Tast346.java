@@ -10,7 +10,7 @@ import java.util.*;
 /*
  * Заданы три числа: a, b, c. Необходимо выяснить, можно ли так переставить цифры в числах a и b, чтобы в сумме получилось c.
  */
-public class Test346 {
+public class Tast346 {
     private static final String INPUT = "INPUT.TXT";
     private static final String OUTPUT = "OUTPUT.TXT";
     private static char[] digitsA;
